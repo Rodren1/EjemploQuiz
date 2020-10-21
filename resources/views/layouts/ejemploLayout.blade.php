@@ -6,7 +6,7 @@
     </head>
     <body>
         @section('barralateral')
-            Esto es la barra lateral
+            <h3>Esto es la barra lateral</h3>
         @show
 
         <div class="container">
